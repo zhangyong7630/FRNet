@@ -1,7 +1,9 @@
 # Feature Reserve Network for Choroid Plexus Segmentation in 7T MRI
 ## Methods
 In this paper, we proposed a novel Feature Reserve Network (FRNet) that integrates detail reserve (DR) module, semantic reserve (SR) module and  feature aggregation (FA) module for Choroid Plexus (CPs) segmentation in 7T MRI. Unlike methods solely focused on enhancing semantic feature extraction for optimal network performance, FRNet aims to effectively retain and propagate critical features throughout the network.
-![本地路径](figure/Architecture.png") <!-- 此路径表示图片和MD文件，处于同一目录 -->
+
+![image](figure/Architecture.png)
+
 ## Usage
 ### Installation
 Install the necessary python packages as defined in environment.txt. We recommend using conda. You can create the environment using：
