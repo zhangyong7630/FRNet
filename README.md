@@ -34,7 +34,7 @@ If you want to test the model which has been trained on the CPs-170 dataset, run
 
 `python CPSegMulti.py --test_dir, --model, --log_path, --device, --out_name`
 
-We provide ckpt download via Google Drive or Baidu Netdisk. Please download the checkpoint from the url below:
+We provide ckpt download via Google Drive or Baidu Netdisk. Please download the checkpoint in the inference stage from the url below:
 
 **Google Drive**
 
