@@ -37,6 +37,7 @@ If you want to test the model which has been trained on the CPs-170 dataset, run
 We provide ckpt download via Google Drive or Baidu Netdisk. Please download the checkpoint from the url below:
 **Google Drive**
 url：https://drive.google.com/drive/folders/1kxO2AVsc_5atRA8iO4U9GyKfd01HA0Oj
+
 **Baidu Netdisk**
 url：https://pan.baidu.com/s/14Z-h_lFd-PB6ePz2HXEb0A?pwd=dsdu extraction code (提取码)：dsdu 
 
